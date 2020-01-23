@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572600185 source:d:\sinau codebloks\g\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572622488 source:d:\sinau codebloks\g\magang matrik.c
+	<stdio.h>
+

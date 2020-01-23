@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573736276 source:d:\sinau codebloks\bismillah\main.cpp
+	<iostream>
+	<stdio.h>
+	<pergerakan.h>
+
+1573735970 d:\sinau codebloks\bismillah\include\pergerakan.h
+
+1573736026 source:d:\sinau codebloks\bismillah\src\pergerakan.cpp
+	"pergerakan.h"
+	"stdio.h"
+

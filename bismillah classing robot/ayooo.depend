@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573927229 source:d:\sinau codebloks\ayooo\main.cpp
+	<iostream>
+	<stdio.h>
+	<pergerakan.h>
+
+1573786644 d:\sinau codebloks\ayooo\include\pergerakan.h
+
+1573928542 source:d:\sinau codebloks\ayooo\src\pergerakan.cpp
+	"pergerakan.h"
+	"stdio.h"
+

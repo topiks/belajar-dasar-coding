@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573438288 source:d:\sinau codebloks\apakah ini persegi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

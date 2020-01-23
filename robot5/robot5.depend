@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573730160 source:d:\sinau codebloks\robot5\main.cpp
+	<iostream>
+	<stdio.h>
+

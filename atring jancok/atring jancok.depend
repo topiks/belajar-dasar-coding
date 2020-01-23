@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573311435 source:d:\sinau codebloks\atring jancok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

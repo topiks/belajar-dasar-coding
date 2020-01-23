@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573201087 source:d:\sinau codebloks\tukar string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
